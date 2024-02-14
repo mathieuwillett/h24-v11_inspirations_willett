@@ -1,43 +1,43 @@
-### Nom de l'exposition ou de l'événement
+# Nom de l'exposition ou de l'événement
 
-# *Phase Shifting Index* - Jeremy Shaw
+### *Phase Shifting Index* - Jeremy Shaw
 
-### Lieu de mise en exposition
+# Lieu de mise en exposition
 
-# Fonderie Darling
+### Fonderie Darling
 
-### Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)
+# Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)
 
-# Temporaire intérieure
+### Temporaire intérieure
 
-### Date de votre visite
+# Date de votre visite
 
-# 31 janvier 2024
+### 31 janvier 2024
 
-### Titre de l'oeuvre
+# Titre de l'oeuvre
 
-# *Phase Shifting Index*
+### *Phase Shifting Index*
 
-### Nom de l'artiste
+# Nom de l'artiste
 
-# Jeremy Shaw
+### Jeremy Shaw
 
-### Année de réalisation
+# Année de réalisation
 
-# 2020
+### 2020
 
-### Description de l'oeuvre
+# Description de l'oeuvre
 
-### Type d'installation (contemplative, immersive, interactive)
+# Type d'installation (contemplative, immersive, interactive)
 
-### Mise en espace
+# Mise en espace
 
-### Composantes et techniques
+# Composantes et techniques
 
-### Éléments nécessaires à la mise en exposition
+# Éléments nécessaires à la mise en exposition
 
-### Expérience vécue
+# Expérience vécue
 
-### Ce qui vous a plu, vous a donné des idées
+# Ce qui vous a plu, vous a donné des idées
 
-### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+# Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
