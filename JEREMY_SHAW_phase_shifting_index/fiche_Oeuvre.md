@@ -56,6 +56,7 @@ voir photo dans le fichier média nommée "expo"
 # Expérience vécue
 
 ### Je pense que l'expérience attendue de l'utilisateur est de tout d'abord se promener entre chacun des écrans pour entendre leurs histoires et ensuite aller s'assoir proche de la porte pour voir l'ensemble de la pièce lorsque la synchronisation se produit. Il faut se préparer à recevoir beaucoup de lumières dans les yeux pendant au moins 5 minutes.
+voir photo dans le fichier média nommée "expérience"
 
 # Ce qui vous a plu, vous a donné des idées
 
