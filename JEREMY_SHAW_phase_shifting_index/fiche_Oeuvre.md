@@ -63,3 +63,7 @@ voir photo dans le fichier média nommée "composantes"
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
 ### Je n'ai pas aimé que la phase de synchronisation avec les lumières clignotantes ait duré autant longtemps. Si jamais je doutais si j'était épileptique ou non, c'était le bon test pour savoir si je l'étais. À part ça, j'ai quand même assez apprécié l'oeuvre.
+
+## Références:
+
+https://macm.org/en/exhibitions/jeremy-shaw/
