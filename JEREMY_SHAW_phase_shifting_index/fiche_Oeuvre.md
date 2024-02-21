@@ -32,6 +32,8 @@
 
 # Type d'installation (contemplative, immersive, interactive)
 
+### Je dirais que c'est une oeuvre immersive, car nous ne faisons pas juste regarder pendant l'exposition.
+
 # Mise en espace
 
 # Composantes et techniques
