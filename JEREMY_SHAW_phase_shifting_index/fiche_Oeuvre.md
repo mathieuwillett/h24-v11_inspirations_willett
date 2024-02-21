@@ -6,6 +6,7 @@ voir photo dans le fichier média nommée "affiche"
 # Lieu de mise en exposition
 
 ### Fonderie Darling
+voir photo dans le fichier média nommée "devantfonderie"
 
 # Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)
 
