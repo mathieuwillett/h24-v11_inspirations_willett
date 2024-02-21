@@ -61,6 +61,7 @@ voir photo dans le fichier média nommée "expérience"
 # Ce qui vous a plu, vous a donné des idées
 
 ### J'ai aimé l'aspect que nous n'avions pas besoin de suivre un certain chemin et que nous étions libres à regarder ce que nous voulions quand nous le voulions. C'est aussi rare que l'on puisse s'assoir dans des expositions donc, étant quelqu'un ayant des maux de dos relativement souvent, cela a fait du bien. 
+voir photo dans le fichier média nommée "aimé"
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
