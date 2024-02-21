@@ -51,6 +51,7 @@ voir photo dans le fichier média nommée "composantes"
 # Éléments nécessaires à la mise en exposition
 
 ### Des bancs contre le mur et devant les écrans du fond, des toiles pour les écrans, des cordes pour supporter ces toiles, du tapis spécial partout, des projecteurs, des hauts parleurs et des subwoofers.
+voir photo dans le fichier média nommée "expo"
 
 # Expérience vécue
 
