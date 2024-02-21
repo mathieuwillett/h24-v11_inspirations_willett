@@ -36,6 +36,7 @@ voir photo dans le fichier média nommée "vueEnsemble"
 # Type d'installation (contemplative, immersive, interactive)
 
 ### Je dirais que c'est une oeuvre immersive, car nous ne faisons pas juste regarder pendant l'exposition.
+voir photo dans le fichier média nommée "vueParlante"
 
 # Mise en espace
 
