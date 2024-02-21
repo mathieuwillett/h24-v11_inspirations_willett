@@ -46,6 +46,7 @@ voir photo dans le fichier média nommée "plan"
 # Composantes et techniques
 
 ### L'artiste devrait amener chacun des écrans, les projecteurs, l'ordinateur faisant fonctionner tout ça, les projecteurs lumineux et le fameux tapis tant désiré de celui-ci.
+voir photo dans le fichier média nommée "composantes"
 
 # Éléments nécessaires à la mise en exposition
 
