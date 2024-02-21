@@ -1,6 +1,7 @@
 # Nom de l'exposition ou de l'événement
 
 ### *Phase Shifting Index* - Jeremy Shaw
+voir photo dans le fichier média nommée "affiche"
 
 # Lieu de mise en exposition
 
