@@ -39,6 +39,7 @@ voir photo dans le fichier média nommée "devantfonderie"
 # Mise en espace
 
 ### L'oeuvre est située dans une salle d'une taille approximative de 50 mètres par 10 mètres. 7 grands écrans sont disposés dans la pièces, 2 dans les coins loin de la porte, 1 sur le mur du fond dans le milieu, 2 dans les coins proche de la porte et 2 autres écrans dans le milieu entre la porte et les coins.
+voir photo dans le fichier média nommée "plan"
 
 # Composantes et techniques
 
