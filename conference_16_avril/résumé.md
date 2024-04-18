@@ -7,3 +7,6 @@ Le but du studio est d'alléger la charge de travail de l'artiste en divisant le
 ![image](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/b7fcf94c-7e76-4574-b1cc-e5d7c4bd4bb2)
 
 Voic mon résumé de la conférence de hier. J'ai trouvé la conférence quand même intéressante et cela m'a donné un intérêt vers le métier d'ingénieur dans le domaine multimédia.
+
+
+Sources: https://www.lozano-hemmer.com/
