@@ -1,6 +1,6 @@
 Nom de l'exposition ou de l'événement
 Aux Frontières du Cosmos - Cosmodôme de Laval
-![affiche](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/4bc074a5-1290-4fed-838d-809d1910019e)
+![affiche](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/4bc074a5-1290-4fed-838d-809d1910019e | 250x250)
 
 
 Lieu de mise en exposition
