@@ -4,8 +4,9 @@ Aux Frontières du Cosmos - Cosmodôme de Laval
 
 
 Lieu de mise en exposition
-Fonderie Darling
-voir photo dans le fichier média nommée "devantfonderie"
+Cosmodôme de Laval
+![cosmo](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/422dafe0-cf89-4741-9e75-908447e0e064)
+
 
 Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)
 Temporaire intérieure
