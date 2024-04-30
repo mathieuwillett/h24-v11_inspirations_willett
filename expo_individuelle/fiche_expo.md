@@ -69,8 +69,14 @@ Nous allons encore dans le couloir pour aller dans la 4ème pièce. Celle-ci est
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 ### J'aurais mis les chronomètres pour les activités moins longs pour qu'il y ait un sentiment de course.
 
+![moi)](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/568a8d39-bbd9-4f28-adc1-c4edf5e6abb3)
+
 # Références:
+
 strollerparking.ca
+
 Tourisme Laval
+
 Cosmodôme de Laval
+
 Courrier Laval
