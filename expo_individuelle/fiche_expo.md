@@ -40,6 +40,9 @@ Ensuite, nous allons dans un couloir ressemblant un sas de la station spatiale i
 
 Suite à cette vidéo, une porte dans le fond de la salle s'ouvre nous menant vers la 3e pièce. Cette pièce contient un écran à l'avant avec des pupitres munis d'écran tactiles en rangées. Sur ces écrans tactiles se trouvent les instructions de comment construire une sonde, donc nous construisons une sonde en l'espace de 10 min. Nous allons encore dans le couloir pour aller dans la 4ème pièce. Celle-ci est une pièce vide avec des écrans sur les murs. Sur ces écrans, il y a un jeu où l'on doit aligner la trajectoire de notre sonde avec la planète ciblée par celle-ci. Je ne suis pas très bon à ce jeu. Après cette pièce, de retour dans le couloir. La 5ème pièce a une table et des «cartels» d'images de planètes. La table nous montre une image à aller lier avec l'image correspondante sur le mur. Couloir encore. La 6ème pièce est similaire à la première. Des bancs sont sur un des murs et une vidéo de conclusion est projetée sur le mur opposé. Et c'est la fin de la visite.
 
+![6emeSalle](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/ac3c79fe-fedf-4f0e-9068-263b37d003f2)
+
+
 # Type d'installation (contemplative, immersive, interactive)
 ### C'est une oeuvre contemplative puisque l'on regarde des vidéos, immersive puisque nous sommes dans l'oeuvre techniquement et intéractive puisque nous jouons à des jeux dans l'oeuvre.
 
