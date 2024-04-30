@@ -29,7 +29,7 @@
 ### 2014
 
 # Description de l'oeuvre
-### 
+### L'oeuvre est une visite interactive d'un centre spatial simulé séparé sur 6 pièces reliées par des couloirs. La première pièce est un gros cylindre sur son côté avec un projecteur projetant une vidéo explicative sur l'un des côtés. Des bancs et une rambarde sur une plateforme empêchent les joueurs de tomber dans le trou. La vidéo explique que pendant la visite, nous allons «construire» une sonde pour explorer les limites des connaissances de l'humanité en aérospatiale. Ensuite, nous allons dans un couloir ressemblant un sas de la station spatiale internationale nous menant à la 2ème pièce. Celle-ci est carrée avec un pilier avec un écran sur chaque face avec des bancs face au piliers dans les quatres directions. L'écran affiche une autre vidéo explicative sur comment fonctionne une sonde. Suite à cette vidéo, une porte dans le fond de la salle s'ouvre nous menant vers la 3e pièce. Cette pièce contient un écran à l'avant avec des pupitres munis d'écran tactiles en rangées. Sur ces écrans tactiles se trouvent les instructions de comment construire une sonde, donc nous construisons une sonde en l'espace de 10 min.
 
 # Type d'installation (contemplative, immersive, interactive)
 ### 
