@@ -38,7 +38,12 @@ Ensuite, nous allons dans un couloir ressemblant un sas de la station spatiale i
 ![couloir](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/ef5b6faf-1a63-4a99-aa19-043319912fda)
 
 
-Suite à cette vidéo, une porte dans le fond de la salle s'ouvre nous menant vers la 3e pièce. Cette pièce contient un écran à l'avant avec des pupitres munis d'écran tactiles en rangées. Sur ces écrans tactiles se trouvent les instructions de comment construire une sonde, donc nous construisons une sonde en l'espace de 10 min. Nous allons encore dans le couloir pour aller dans la 4ème pièce. Celle-ci est une pièce vide avec des écrans sur les murs. Sur ces écrans, il y a un jeu où l'on doit aligner la trajectoire de notre sonde avec la planète ciblée par celle-ci. Je ne suis pas très bon à ce jeu. Après cette pièce, de retour dans le couloir. La 5ème pièce a une table et des «cartels» d'images de planètes. La table nous montre une image à aller lier avec l'image correspondante sur le mur. Couloir encore. La 6ème pièce est similaire à la première. Des bancs sont sur un des murs et une vidéo de conclusion est projetée sur le mur opposé. Et c'est la fin de la visite.
+Suite à cette vidéo, une porte dans le fond de la salle s'ouvre nous menant vers la 3e pièce. Cette pièce contient un écran à l'avant avec des pupitres munis d'écran tactiles en rangées. Sur ces écrans tactiles se trouvent les instructions de comment construire une sonde, donc nous construisons une sonde en l'espace de 10 min. 
+
+![3emeSalle](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/35ba58bf-8f2c-4eb0-ab54-a7fde2845d94)
+
+
+Nous allons encore dans le couloir pour aller dans la 4ème pièce. Celle-ci est une pièce vide avec des écrans sur les murs. Sur ces écrans, il y a un jeu où l'on doit aligner la trajectoire de notre sonde avec la planète ciblée par celle-ci. Je ne suis pas très bon à ce jeu. Après cette pièce, de retour dans le couloir. La 5ème pièce a une table et des «cartels» d'images de planètes. La table nous montre une image à aller lier avec l'image correspondante sur le mur. Couloir encore. La 6ème pièce est similaire à la première. Des bancs sont sur un des murs et une vidéo de conclusion est projetée sur le mur opposé. Et c'est la fin de la visite.
 
 ![6emeSalle](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/ac3c79fe-fedf-4f0e-9068-263b37d003f2)
 
@@ -65,3 +70,7 @@ Suite à cette vidéo, une porte dans le fond de la salle s'ouvre nous menant ve
 ### J'aurais mis les chronomètres pour les activités moins longs pour qu'il y ait un sentiment de course.
 
 # Références:
+strollerparking.ca
+Tourisme Laval
+Cosmodôme de Laval
+Courrier Laval
