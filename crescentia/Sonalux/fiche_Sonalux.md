@@ -26,7 +26,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ### J'ai beaucoup aimé ce projet. Tout ce qui est lié à la musique est je trouve très intéressant, et en plus, la musique était plaisante à écouter.
 
-![kg2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/45d98c5f-43fd-49ae-9657-c209c8cb9eb2)
+![sn1](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/0f30ecf8-e7d9-494f-a845-c696e192c027)
 
 # Cours nécessaires
 
