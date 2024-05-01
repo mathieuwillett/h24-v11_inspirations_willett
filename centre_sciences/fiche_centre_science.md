@@ -2,6 +2,8 @@
 
 ### Explore
 
+![explore](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/33d9c154-1399-4921-b778-1aa22bf33307)
+
 # Lieu de mise en exposition
 
 ### Centre des sciences de Montréal
@@ -19,6 +21,8 @@
 # Titre de l'oeuvre
 
 ### Lumière: Jeux de réflexion
+
+![infrarouge2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/3a64ad4e-f4e3-422e-9441-27c7e102978d)
 
 # Nom de l'artiste
 
@@ -45,7 +49,6 @@
 
 ![caméraI](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/3d08a908-1e4e-4f01-b0c3-db08922ec1cb)
 ![infrarouge](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/a9b25420-d91a-4426-996d-6d7a47ee2d2a)
-![infrarouge2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/3a64ad4e-f4e3-422e-9441-27c7e102978d)
 
 # Type d'installation (contemplative, immersive, interactive)
 
