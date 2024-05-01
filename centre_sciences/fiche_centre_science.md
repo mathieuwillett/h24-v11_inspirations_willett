@@ -4,23 +4,23 @@
 
 
 # Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)
-Permanente intérieure
+
 
 # Date de votre visite
 
-28 février 2024
+12 avril 2024
 
 # Titre de l'oeuvre
 
-Aux Frontières du Cosmos
+
 
 # Nom de l'artiste
 
-Cosmodôme de Laval
+
 
 # Année de réalisation
 
-2014
+
 
 # Description de l'oeuvre
 
