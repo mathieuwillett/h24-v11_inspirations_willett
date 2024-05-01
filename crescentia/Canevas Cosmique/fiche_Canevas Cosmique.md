@@ -52,6 +52,8 @@ Temporaire intérieure
 
 ### Il y a 5 statuettes avec des codes en Python en-dessous, une table vitrée, un projecteur et une caméra sous la table pourcapter les symboles Python. Il y a aussi des haut-parleurs sous la projection au mur.
 
+![cc4](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/8943a608-dfc1-4b12-beb6-496c2f3869a4)
+
 # Éléments nécessaires à la mise en exposition
 
 ### Les statuettes, la table, le projecteur pour le mur, un ordinateur portable, le projecteur sous la table et une caméra kinect.
