@@ -14,6 +14,8 @@
 
 ### 10 avril 2024
 
+![cs1](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/941282ff-b03e-4d7c-a04c-5036098075b7)
+
 # Titre de l'oeuvre
 
 ### Lumière: Jeux de réflexion
@@ -28,6 +30,7 @@
 
 # Description de l'oeuvre
 
+### L'oeuvre est composée de 3 écrans munis de caméras à leur apogée. L'écran de gauche montre le monde avec une caméra UVdonc tout est mauve et sombre. Il y a aussi un projecteur UV sur le dessus pour que la caméra puisse voir. L'écran du milieu montre le monde réel, comme il est tout le temps. L'écran de droite montre l'infrarouge, donc ce qui est froid est bleu et ce qui est chaud part du vert, au jaune, au rouge et finalement au blanc.
 
 # Type d'installation (contemplative, immersive, interactive)
 
