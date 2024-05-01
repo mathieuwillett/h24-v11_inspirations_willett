@@ -41,4 +41,4 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ### Ce projet est le 3ème dans mon classement. J'ai bien aimé les deux derniers projets gagnent selon moi.
 
-![ep4](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/75369110-b479-4006-9baa-bf012033ddcc)
+![kg3](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/fdf778ac-2733-4f61-aa1f-aa15e24cbf8c)
