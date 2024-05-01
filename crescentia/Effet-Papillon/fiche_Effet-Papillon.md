@@ -38,3 +38,5 @@ https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528b
 # Préférence
 
 ### Ce projet est le 4ème dans mon classement. J'ai bien aimé mais l'expérience visuel n'était pas à la hauteur de mes attentes. 
+
+![ep4](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/75369110-b479-4006-9baa-bf012033ddcc)
