@@ -30,7 +30,22 @@
 
 # Description de l'oeuvre
 
-### L'oeuvre est composée de 3 écrans munis de caméras à leur apogée. L'écran de gauche montre le monde avec une caméra UVdonc tout est mauve et sombre. Il y a aussi un projecteur UV sur le dessus pour que la caméra puisse voir. L'écran du milieu montre le monde réel, comme il est tout le temps. L'écran de droite montre l'infrarouge, donc ce qui est froid est bleu et ce qui est chaud part du vert, au jaune, au rouge et finalement au blanc.
+### L'oeuvre est composée de 3 écrans munis de caméras à leur apogée. L'écran de gauche montre le monde avec une caméra UVdonc tout est mauve et sombre. Il y a aussi un projecteur UV sur le dessus pour que la caméra puisse voir.
+
+![projecteur](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/d5d9c6de-b6a6-4d2f-8f4e-92733fa97baa)
+![uv](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/5ad7ab7f-6613-4759-b97f-2292cd490e03)
+![caméraUV](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/960f804a-b331-4f1c-b413-1bb4d9c895ba)
+
+### L'écran du milieu montre le monde réel, comme il est tout le temps.
+
+![normal](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/7c6de98d-7be4-4ac7-b57c-9c8e3afdb43a)
+![caméraN](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/57958aac-ad86-444d-b785-cd04fdc9a6f5)
+
+### L'écran de droite montre l'infrarouge, donc ce qui est froid est bleu et ce qui est chaud part du vert, au jaune, au rouge et finalement au blanc.
+
+![caméraI](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/3d08a908-1e4e-4f01-b0c3-db08922ec1cb)
+![infrarouge](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/a9b25420-d91a-4426-996d-6d7a47ee2d2a)
+![infrarouge2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/3a64ad4e-f4e3-422e-9441-27c7e102978d)
 
 # Type d'installation (contemplative, immersive, interactive)
 
