@@ -27,7 +27,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ### J'ai aimé ce projet, mais je pense que le jeu devrait être plus vite plus rapidement dans la partie.
 
-![ep3](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/26e459e2-6910-4682-9793-c5af068a8d73)
+![kg2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/45d98c5f-43fd-49ae-9657-c209c8cb9eb2)
 
 # Cours nécessaires
 
