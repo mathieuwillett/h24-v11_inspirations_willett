@@ -1,7 +1,7 @@
 # Nom du projet
 ### Kigo
 
-![ep1](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/e6898a6c-5696-4f0c-a8fc-985b3debdc7c)
+![kg.md](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/bc14051a-dd90-45e0-9c8c-64acb649060d)
 
 # Noms des créateurs
 
