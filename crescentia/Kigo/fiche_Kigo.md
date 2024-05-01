@@ -18,7 +18,10 @@
 ### Lien: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 # Plan du projet: 
-https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/stl_structure.stl
+
+![carte](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/f34f8599-67a3-479b-8bf5-bf6dfde87003)
+
+https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 # Ressenti
 
