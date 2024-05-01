@@ -56,11 +56,19 @@ Temporaire intérieure
 
 # Ce qui vous a plu, vous a donné des idées
 
-### J'ai adoré ce projet. J'aime tout ce qui a rapport à l'espace donc ce projet est un peu biaisé vers mes préférences. J'aimerais faire un projet similaire à cela lorsque je ferai ce cours dans 2 ans.
+### J'ai adoré ce projet. J'aime tout ce qui a rapport à l'espace donc ce projet est un peu biaisé vers mes préférences. J'aimerais faire un projet similaire à cela lorsque je ferai ce cours dans 2 ans. Ce projet est mon préféré des 5.
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
 ### J'aurais mis les réactions de statuettes avec le soleil et elles-mêmes plus lentes pour mieux voir ce qu'elle font.
+
+# Plan du projet: 
+
+![carte](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/ffe01a72-5159-4a31-98fe-68b92a804166)
+
+# Cours nécessaires
+
+### Je pense que les cours de programmation, de modélisation 3D et de vidéo sont primordiaux pour la réalisation de ce projet.
 
 # Références:
 
