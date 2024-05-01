@@ -66,6 +66,8 @@
 
 ### Il y a 3 écrans, 3 caméras dont une infrarouge et une UV et un projecteur à rayons UV. Des personnes sont aussi pratiques à avoir pour que cela fonctionne.
 
+![derriere](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/ee6a2ade-357f-4769-a3ad-7359cec22662)
+
 # Expérience vécue
 
 ### Il faut juste expériementer et voir à quoi ressemble le monde sous différentes visions.
