@@ -18,9 +18,9 @@
 
 # Plan du projet: 
 
-![carte](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/f34f8599-67a3-479b-8bf5-bf6dfde87003)
+![carte](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/f0ecd0d2-cb3d-4621-8e9c-752b7b9d1861)
 
-https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html#Intention-de-d%C3%A9part
 
 # Ressenti
 
