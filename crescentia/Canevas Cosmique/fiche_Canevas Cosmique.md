@@ -38,6 +38,8 @@ Temporaire intérieure
 
 ### L'oeuvre consiste à bouger des statuettes sur une table en vitre sur qui est projetée le système solaire. Cette même projection est aussi projetée sur le mur en temps réel. Sous chaque statuettes se trouvent un code en python qui permet à la kinect de reconnaitre la statuette sous la table. Les statuettes sont: un trou blanc, un trou noir, des éruptions solaires, un pulsar, et une autre étoile. Lorsque les statuettes interagissent ensemble, elles ont des réactions différentes, pareil pour quand elles intéragissent avec le soleil.
 
+![cc2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/5252ab35-18d7-47f6-90d1-8935d477ab5f)
+
 # Type d'installation (contemplative, immersive, interactive)
 
 ### C'est une oeuvre intéractive puisque l'on bouge les statuettes sur la vitre pour créer le résultat sur l'écran.
