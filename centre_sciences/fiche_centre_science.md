@@ -55,7 +55,7 @@
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-### Rien ne m'a amarqué à ce point-là.
+### Rien ne m'a marqué à ce point-là.
 
 # Références:
 
