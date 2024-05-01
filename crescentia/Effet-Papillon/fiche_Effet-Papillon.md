@@ -12,7 +12,7 @@
 ### Viktor Zhuravlev
 ### Jasmine Lapierre
 
-![cartel](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/cadc395c-3f21-4442-aee8-69654dd297e0)
+![cartel](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/c4d572de-04bb-45a9-8fe8-40bac41bc245)
 
 # Lien du site
 
