@@ -25,7 +25,7 @@ https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528b
 
 ### J'ai aimé ce projet, mais je sens que ça aurait pu être plus poussé même si avec le temps qu'ils ont eu, c'est très bien fait.
 
-![rh3](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/866790de-23f8-47c4-b1ec-70bfffb8594a)
+![ep3](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/26e459e2-6910-4682-9793-c5af068a8d73)
 
 # Cours nécessaires
 
