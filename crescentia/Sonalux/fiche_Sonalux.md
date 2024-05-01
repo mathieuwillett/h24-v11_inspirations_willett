@@ -10,7 +10,7 @@
 ### Ghita Alaoui
 ### Vincent Desjardins
 
-![cartel](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/6555f1fd-c072-485c-b24b-14ac35f25ef5)
+![cartel](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/3e0e9a25-f115-4cf6-9d0e-1c6ad507dd54)
 
 # Lien du site
 
