@@ -23,6 +23,8 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.htm
 
 ### Je pense ressentir plus cette oeuvre au niveau spirituel que mental ou physique puisque celle-ci s'attaque plus aux souvenirs. Cela me donne le sentiment d'être dans un rêve ou de voir ma vie défiler devant mes yeux.
 
+![rh3](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/866790de-23f8-47c4-b1ec-70bfffb8594a)
+
 # Cours nécessaires
 
 ### Je pense que les cours de programmation, de vidéo et de modélisation 3D sont extrèmement importants pour la réalisation de ce projet.
