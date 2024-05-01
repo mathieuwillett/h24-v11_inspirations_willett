@@ -72,7 +72,7 @@
 
 # Ce qui vous a plu, vous a donné des idées
 
-### J'ai bien aimé ce truc parce que ça donne uune idée de comment on aurait pu voir le monde. Je vais peut-être en intégrer dans un projet un jour aussi.
+### J'ai bien aimé ce dispositif parce que ça donne une idée de comment on aurait pu voir le monde. Je vais peut-être en intégrer dans un projet un jour aussi.
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
