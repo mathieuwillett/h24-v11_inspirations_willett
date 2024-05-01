@@ -40,4 +40,4 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ### Ce projet est le 2ème dans mon classement. J'ai hésité entre la 1ère place et la 2ème, mais Canevas Cosmique a gagné puisque ça a rapport à l'espace.
 
-![kg3](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/fdf778ac-2733-4f61-aa1f-aa15e24cbf8c)
+![sn2](https://github.com/mathieuwillett/h24-v11_inspirations_willett/assets/143769896/5d3bb2cc-b9b2-4bfd-b9ca-ee1b48f8e513)
